@@ -1,8 +1,4 @@
-## 🖖🏻 LLAP
-I'm an IT Specialist and tech enthusiast. I love making websites, online stores, and apps that are easy to use and look great.
-I enjoy playing around with the latest tech stuff. Always learning by trying out new things, and keeping up with all the latest trends in the tech world.
-When I'm not busy coding, I'm usually checking out new tech, challenging myself, and helping others do the same.
-If you need a hand with a project or just want to chat about tech, design, or the newest ML frameworks, feel free to get in touch! 
+IT Specialist and tech enthusiast.
 
 ### Currently using
 
