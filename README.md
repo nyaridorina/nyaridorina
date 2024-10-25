@@ -1,6 +1,6 @@
 # 🖖🏻 Hello! I'm Dorina.
 
-I'm an **IT Specialist** with a passion for solving problems and creating useful or fun applications. I specialize in a range of technologies and have a deep love for Python and its powerful libraries.
+I'm an **IT Specialist** with a passion for solving problems and creating useful or fun applications.
 
 ## 📈 Current Projects
 I'm currently working on various projects that blend my interests.
